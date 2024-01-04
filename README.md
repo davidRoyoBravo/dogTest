@@ -35,6 +35,10 @@ npm install
 ```sh
 ./vendor/bin/sail artisan migrate --seed
 ```
+- Start development npm server
+```sh
+npm run dev
+```
 Commands for test.
 
 Exceute Unit Tests:
