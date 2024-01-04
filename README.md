@@ -52,3 +52,5 @@ Runing PHPStan :
 ```sh
 ./vendor/bin/phpstan analyse --memory-limit=1G
 ```
+
+## Go to the sail service URL, usually http://localhost/
